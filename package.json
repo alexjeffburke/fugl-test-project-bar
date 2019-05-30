@@ -1,0 +1,14 @@
+{
+  "name": "fugl-test-project-bar",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Alex J Burke <alex@alexjeffburke.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dont-break-foo": "*"
+  }
+}
